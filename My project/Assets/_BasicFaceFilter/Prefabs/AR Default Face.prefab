@@ -277,6 +277,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: low_poly_head_with_1_hair
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c37e23fd3ecef45c291754938847ac00, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
