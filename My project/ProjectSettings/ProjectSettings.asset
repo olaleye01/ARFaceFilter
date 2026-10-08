@@ -174,7 +174,7 @@ PlayerSettings:
   androidMinAspectRatio: 1
   applicationIdentifier:
     Android: com.unity.template.ar_mobile
-    Standalone: com.unity.template.ar-mobile
+    Standalone: com.iybots.baseface
     iPhone: com.iybots.baseface
   buildNumber:
     Bratwurst: 0
